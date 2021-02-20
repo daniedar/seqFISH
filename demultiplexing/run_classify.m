@@ -1,4 +1,3 @@
-%% Run the classify on the 
 main_path = "";
 
 fov_demult_sheet = readtable(sprintf('%s\\demultiplexing\\sample_sheets\\demult_sample_sheet.txt',main_path)); %
